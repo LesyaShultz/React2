@@ -1,0 +1,31 @@
+.Footer-app {
+    grid-area: f;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(163, 119, 204);
+    padding-bottom: 30px;
+}
+
+input {
+padding-left: 20px;
+border: 2px solid rgb(58, 56, 56); 
+border-radius: 3px;
+min-height: 30px;
+
+}
+
+
+input:focus {
+ outline: none;
+ background: linear-gradient(90deg, rgba(239,249,9,1) 66%, rgba(110,97,97,1) 100%);
+}
+
+button{
+    padding: 8px 30px;
+    background: linear-gradient(90deg, rgba(239,249,9,1) 66%, rgba(110,97,97,1) 100%);
+    margin-left: 5px;
+}
+
+h2{
+    margin: 5px;
+}

@@ -1,0 +1,19 @@
+[
+{
+    "title" : "React",
+    "body" : "React (иногда React.js или ReactJS) — JavaScript-библиотека с открытым исходным кодом для разработки пользовательских интерфейсов.",
+    "href" : "https://ru.wikipedia.org/wiki/React"
+},
+
+{
+    "title" : "JavaScript",
+    "body" : "JavaScript (/ˈdʒɑːvɑːˌskrɪpt/; аббр. JS /ˈdʒeɪ.ɛs./) — мультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили. Является реализацией спецификации ECMAScript (стандарт ECMA-262[7]).",
+    "href" : "https://ru.wikipedia.org/wiki/JavaScript"
+},
+{
+    "title" : "CSS",
+    "body" : "CSS (/siːɛsɛs/ англ. Cascading Style Sheets «каскадные таблицы стилей») — формальный язык описания внешнего вида документа (веб-страницы), написанного с использованием языка разметки (чаще всего HTML или XHTML). Также может применяться к любым XML-документам, например, к SVG или XUL.",
+    "href" : "https://ru.wikipedia.org/wiki/CSS"
+}
+
+]

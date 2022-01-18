@@ -1,0 +1,33 @@
+.Header-app {
+    grid-area: h;
+    background-color: rgb(163, 119, 204);
+}
+
+img {
+    width: 70px;
+    margin: 10px;
+}
+
+.Nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul li{
+    display: inline;
+    list-style: none;
+    padding: 5px 20px ;
+    border: 2px solid rgb(29, 27, 27);
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    background: linear-gradient(90deg, rgba(239,249,9,1) 66%, rgba(110,97,97,1) 100%);
+}
+li:hover {
+    background: linear-gradient(90deg, rgba(110,97,97,1) 0%, rgba(239,249,9,1) 66%);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}

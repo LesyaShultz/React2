@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&display=swap');
+
+.Main-app {
+    grid-area: m;
+    display: grid;
+    padding: 40px;
+    
+}
+
+.Main-app_block{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    text-align: center ;
+    
+    
+}
+
+section {
+    border: 2px solid grey;
+    padding: 10px;
+    box-shadow: 0 0 30px rgb(19, 18, 18) ;
+    transition: all ease-in-out 0.8s ;
+}
+
+h2 {
+    font-size: 30px; 
+}
+
+.MainText {
+    font-family: 'Dongle', sans-serif;
+    font-size: 14px;
+}
